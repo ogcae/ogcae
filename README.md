@@ -6,6 +6,5 @@
                               enjoy <a href="https://github.com/ogcae?tab=repositories"> my repositories </a> - feel free to <a href="mailto:c.ogcae@engineer.com"> contact me         
                                                                                                 </a>
                                                                                                 <br><br>
-                                                                                                <br><br>
     <p align=center> <img src=https://komarev.com/ghpvc/?username=ogcae&color=grey&style=flat-square&label=%E2%8C%A5>
                                                                                                  </div>
