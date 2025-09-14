@@ -7,5 +7,5 @@
                                                                                                 </a>
                                                                                                 <br><br>
                                                                                                 <br><br>
-    <p align=center> <img src=https://komarev.com/ghpvc/?username=ogcae&color=8F5689&style=flat-square&label=%E2%8C%A5>
+    <p align=center> <img src=https://komarev.com/ghpvc/?username=ogcae&color=grey&style=flat-square&label=%E2%8C%A5>
                                                                                                  </div>
