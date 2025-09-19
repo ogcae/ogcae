@@ -10,7 +10,7 @@
       <a href="https://github.com/ibickout">  <img width="110" height="140px" src="https://i.imgur.com/RSBElq8.png"    alt="ibickout">    </a>
       <a href="https://github.com/ogcae">     <img width="110" height="140px" src="https://i.imgur.com/PrCklvK.jpeg"   alt="ogcae">       </a>
       <a href="https://github.com/ogcae">     <img width="110" height="140px" src="https://i.imgur.com/E1HV7Oj.png"    alt="ogcae">       </a>
-      <a href="https://github.com/ogcae">     <img width="110" height="140px" src="https://i.imgur.com/4gmEIHb.png"    alt="ogcae">       </a>
+      <a href="https://github.com/ogcae">     <img width="110" height="140px" src="https://i.imgur.com/olIlg5M.png"    alt="ogcae">       </a>
    </p>
 </div>
 
