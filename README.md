@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://img.shields.io/badge/grey-5d5d5d?style=flat-square&logo=adafruit&logoColor=white" alt="Badge">
 </div>
 
    <p align="center">
+      <img src="https://img.shields.io/badge/grey-5d5d5d?style=flat-square&logo=adafruit&logoColor=white" alt="Badge">
       <img align="right" src="https://img.shields.io/badge/𝘭𝘪𝘨𝘩𝘵-white?style=flat-square&logo=adafruit&logoColor=black">
       <img align="left"  src="https://img.shields.io/badge/𝘥𝘢𝘳𝘬-black?style=flat-square&logo=adafruit&logoColor=c8c8c8">                  <br>
       <a href="https://github.com/ogcae">     <img width="110" height="140px" src="https://i.imgur.com/n4ds10x.png">                      </a>
